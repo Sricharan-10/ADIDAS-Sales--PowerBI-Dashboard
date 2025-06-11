@@ -1,7 +1,7 @@
 # ADIDAS-Sales--PowerBI-Dashboard
 I created an interactive PowerBI dashboard to analyze Adidas's sales data and uncover insights into revenue trends, product performance, and regional sales distribution. This helped visualize business KPIs clearly and effectively.
 
-# Key Insights from Adidas Sales Analysis Dashboard
+# Key Insights & Features
 •	Total Sales Performance:
 •	Adidas generated $900M in total sales, showing strong overall revenue performance during the analysed period.
 •	 Monthly Sales Trends:
@@ -18,4 +18,12 @@ I created an interactive PowerBI dashboard to analyze Adidas's sales data and un
 •	Operating Margin stood at 42%, and the average price per unit was $45, indicating strong profitability and efficient pricing strategy.
 •	 Underperforming Segments:
 •	Identified product and region combinations with low sales and margins, which can be potential areas for improvement, discontinuation, or strategic re-evaluation.
+
+# Why I Did This:
+As someone exploring a deep dive into Product Management, understanding how data drives decisions are crucial. Building this dashboard gave me a strong grasp of how product performance, market segmentation, and customer trends can be visualized and analyzed to make strategic decisions.
+
+# Feedback & Collaboration
+•	Your feedback is welcome. If you’d like to collaborate on similar projects or discuss data analysis opportunities, and product management opportunities, feel free to reach out.
+
+
 
